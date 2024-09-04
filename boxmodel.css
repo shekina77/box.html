@@ -1,1 +1,84 @@
+header{
+    background-color: brown;
+    color: beige;
+    text-align: center;
+    padding: 20px;
+    text-decoration-line: underline;
+    
+}
+.one{
+    display: inline-block;
+    padding-top: 10px;
+    width: 410px;
+    height: 300px;
+    margin: 5px;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
 
+    }
+    .two{
+        display: inline-block;
+        padding-top: 10px;
+        width: 410px; 
+        height: 300px;
+        margin: 5px;
+        text-align: center ;
+        border: 2px solid black;
+        box-shadow:2px 2px black ;
+    }
+    .three{
+        display: inline-block;
+        padding-top: 10px;
+        width: 410px; 
+        height: 300px;
+        margin: 5px;
+        text-align: center ;
+        border: 2px solid black;
+        box-shadow:2px 2px black ;
+        float: left;
+    
+ }
+ .four{
+    display: inline-block;
+        padding-top: 10px;
+        width: 410px; 
+        height: 300px;
+        margin: 5px;
+        text-align: center ;
+        border: 2px solid black;
+        box-shadow:2px 2px black ;
+        float: ;
+    }
+    .five{
+        display: inline-block;
+        padding-top: 10px;
+        width: 410px; 
+        height: 300px;
+        margin: 5px;
+        text-align: center ;
+        border: 2px solid black;
+        box-shadow:2px 2px black ;
+    }
+    .six{
+        display: inline-block;
+        padding-top: 10px;
+        width: 410px; 
+        height: 300px;
+        margin: 5px;
+        text-align: center ;
+        border: 2px solid black;
+        box-shadow:2px 2px black ;
+    }
+ h2{
+    text-decoration-line:underline ;
+   } 
+
+footer{
+    background-color: lightcoral;
+    padding: 20px;
+    color: beige;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid brown;
+}
